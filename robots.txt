@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eejusiezu.sahjain.dev/sitemap.xml
